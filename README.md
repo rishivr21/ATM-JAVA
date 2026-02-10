@@ -11,9 +11,3 @@ It demonstrates basic object-oriented programming concepts such as classes, meth
 - Deposit money
 - Exit option
 
-## How to Run
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/rishivr21/ATM-Java.git
-   cd ATM-Java
